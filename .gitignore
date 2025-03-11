@@ -1,4 +1,4 @@
-# Gradle files
+# Gradle file
 .gradle/
 build/
 
@@ -31,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# swap files
+.swp
