@@ -1,3 +1,10 @@
 # git-intro-with-android
 
-## this is my first commit in readme file.
+## Learning git and github with android project
+
+
+### Instractor: 
+```
+    Md. Khalid Syfullah
+    Lecturer, Baust
+```
